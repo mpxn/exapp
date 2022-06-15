@@ -1,0 +1,22 @@
+{
+  "name": "App",
+  "last_name": "App",
+  "profile": "Profile",
+  "launches": "Launches",
+  "error:": "Error",
+  "Pin_is_incorrect": "Pin is incorrect",
+  "title_enter_pin": "Enter pin",
+  "title_error_pin": "Wrong pin, try again",
+  "title_create_pin": "Create new pin",
+  "title_confirm_pin": "Confirm new pin",
+  "pin_profile": "Pin code",
+  "pin_profile_en": "Enable",
+  "pin_profile_dis": "Disable",
+  "launches_press_one_more": "Press one more to reset",
+  "launches_at_least": "Enter at least 3 characters",
+  "launches_label": "Enter mission name",
+  "launches_mission": "Mission",
+  "launches_find_launches": "Tap search to find launches",
+  "launches_no_launches": "no launches",
+  "launches_no_details": "no details"
+}
