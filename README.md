@@ -1,6 +1,7 @@
 # forexample
 
-A new Flutter project.
+The project was developed and tested for android. Please run on the target platform. 
+To run, clone exapp and forexample_modules into the same directory and follow the instructions.
 
 - Install (<https://flutter.dev/docs/get-started/install>).
 
